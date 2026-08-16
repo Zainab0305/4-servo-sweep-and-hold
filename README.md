@@ -1,4 +1,4 @@
-# Task1: 4-servo-sweep-and-hold
+# Task1: 4-servo sweep and hold
 
 A simple Arduino project (built on Tinkercad) that drives 4 servo motors through two sequential motions:
 
